@@ -1,0 +1,8 @@
+==================================
+      FASTA SUMMARY REPORT
+==================================
+
+Total FASTA files analysed: 0
+
+Analysis complete.
+==================================
