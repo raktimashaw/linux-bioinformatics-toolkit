@@ -1,0 +1,12 @@
+##gff-version 3
+chr1	Funannotate	gene	100	900	.	+	.	ID=gene0001
+chr1	Funannotate	mRNA	100	900	.	+	.	ID=mrna0001;Parent=gene0001
+chr1	Funannotate	CDS	120	850	.	+	0	ID=cds0001;Parent=mrna0001
+
+chr1	Funannotate	gene	1200	1800	.	-	.	ID=gene0002
+chr1	Funannotate	mRNA	1200	1800	.	-	.	ID=mrna0002;Parent=gene0002
+chr1	Funannotate	CDS	1250	1750	.	-	0	ID=cds0002;Parent=mrna0002
+
+chr2	Funannotate	gene	400	1000	.	+	.	ID=gene0003
+chr2	Funannotate	mRNA	400	1000	.	+	.	ID=mrna0003;Parent=gene0003
+chr2	Funannotate	CDS	450	950	.	+	0	ID=cds0003;Parent=mrna0003
