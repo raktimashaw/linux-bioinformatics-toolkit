@@ -1,0 +1,9 @@
+GeneID Species
+Gene1 Candida
+Gene2 Candida
+Gene3 Cryptococcus
+Gene4 Candida
+Gene5 Aspergillus
+Gene6 Cryptococcus
+Gene7 Candida
+Gene8 Aspergillus
