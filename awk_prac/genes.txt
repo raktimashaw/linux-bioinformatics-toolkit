@@ -1,0 +1,9 @@
+GeneID Length Annotation
+Gene1 542 transporter
+Gene2 341 kinase
+Gene3 876 polymerase
+Gene4 623 helicase
+Gene5 421 transporter
+Gene6 1024 polymerase
+Gene7 355 kinase
+Gene8 512 transporter
